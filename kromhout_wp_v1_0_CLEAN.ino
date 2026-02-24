@@ -59,12 +59,12 @@
 // ═══════════════════════════════════════════════════════════════
 
 // WiFi & MQTT
-const char* SSID = "KromhoutWiFi";
-const char* PASS = "Gijs2018!#";
-const char* MQTT_BROKER = "192.168.1.69";
+const char* SSID = "";
+const char* PASS = "";
+const char* MQTT_BROKER = "";
 const int MQTT_PORT = 1883;
-const char* MQTT_USER = "mqtt";
-const char* MQTT_PASS = "mariska4!#";
+const char* MQTT_USER = "";
+const char* MQTT_PASS = "";
 
 // Hardware pins
 #define CHOFU_TX_PIN 2  // Naar warmtepomp (via T2 transistor)
