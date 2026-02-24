@@ -417,7 +417,7 @@ copies or substantial portions of the Software.
 
 ### Protocol Reverse Engineering
 **WackoH (Tweakers.net)** - Originele reverse engineering van het Chofu 0x19/0x91 protocol. Zonder dit pionierswerk was dit project niet mogelijk geweest.
-- Tweakers topic: [Link naar Tweakers thread]
+- Tweakers topic: [[Link naar Tweakers thread]](https://gathering.tweakers.net/forum/list_messages/2220972/0)
 
 ### Development
 **Kromhout** - Volledige controller ontwikkeling, optimalisatie, Home Assistant integratie, ESP32 display, en 6 maanden intensief werk om alles production-ready te maken.
